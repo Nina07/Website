@@ -14,26 +14,26 @@ name:				         Introspection
 title:               Hey Dudes
 tagline:             'If you are on a path to loosing faith, continue ..'
 description:         'About me'
-url:                 http://niyanta.github.io
+url:                 http://nina07.github.io
 rss:                 rss feed url
 baseurl:             '/'
 baseurl_posts_img:   '/assets/images/posts/'
 baseurl_featured_img: '/assets/images/hero/'
 baseurl_featured_thumbnail: '/assets/images/thumbnail/'
 baseurl_javascripts: '/assets/javascripts/'
-icon:                your site icon path # /assets/img/icon.png [best 300px X 300px]
+icon:                '/assets/images/nu.svg' #[best 300px X 300px]
 disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
-  name:           	 Nina
-  url:            	 http://niyanta.github.io
+  name:           	 Niyanta
+  url:            	 http://nina07.github.io
   facebook:          niyu.j
   twitter:           thats_nina07
-  google_plus:       username
+  google_plus:       +NiyantaZamindar
   linkedin:          niyantazamindar
-  pinterest:         username
-  kiva:              username
-
+  quora:             Niyanta-Zamindar
+  pinterest:         niyanta150792
+  github:            nina07
 fb_admins:           your facebook profile id
 fb_appid:            your facebook app id
 

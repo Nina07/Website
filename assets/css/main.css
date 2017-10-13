@@ -2150,20 +2150,20 @@ body {
   background-image: url(../images/linkedin--black.svg);
 }
 
-.socialAccount--dribbble {
-  background-image: url(../images/dribbble--black.svg);
+.socialAccount--quora {
+  background-image: url(../images/quora--black.svg);
 }
 
 .socialAccount--pinterest {
   background-image: url(../images/pinterest--black.svg);
 }
 
-.socialAccount--kiva {
-  background-image: url(../images/kiva--black.svg);
+.socialAccount--github {
+  background-image: url(../images/github--black.svg);
 }
 
-.socialAccount--rss {
-  background-image: url(../images/rss--black.svg);
+.socialAccount--google {
+  background-image: url(../images/google-plus--black.svg);
 }
 
 .section--last {
@@ -2676,6 +2676,21 @@ body {
 .visible-lg-inline,
 .visible-lg-inline-block {
   display: none !important;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th {
+  width: 50%;
+}
+
+th, td {
+  padding: 5px;
+  text-align: center;
+  font-size: 14px;
 }
 
 @media (max-width: 767px) {

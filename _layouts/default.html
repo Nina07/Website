@@ -4,6 +4,7 @@
   {% include head.html %}
 
   <body>
+    <!-- {{ page.url | inspect }} -->
     {% if page.url != '/index.html' %}
       <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
       {% include sidebar-nav.html %}
@@ -16,7 +17,7 @@
       {% include sidebar-toggle.html %}
     {% endif %}
 
-    {% if page.url == '/index.html' %}
+    {% if page.url == '/' %}
       {% include subscribe.html %}
       {% include footer.html %}
     {% endif %}

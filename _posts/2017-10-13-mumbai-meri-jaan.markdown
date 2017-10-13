@@ -4,8 +4,8 @@ title:  "Mumbai Meri Jaan"
 date:   '2017-10-13 22:00:00'
 last_modified_at:  '2017-10-13 22:30:00'
 excerpt: "I am here to talk about my big move to the city of Dreams ..."
-categories: history
-tags:  mickey
+categories: Travel
+tags:  mumbai
 image:
   feature: mumbai-min.jpg
   topPosition: -150px
