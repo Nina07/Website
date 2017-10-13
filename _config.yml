@@ -11,7 +11,7 @@ permalink:           /:title
 timezone:            Asia/Kolkata # eg. Asia/Kathmandu
 locale:              en_us # eg. en_us
 name:				         Introspection
-title:               Niyanta Zamindar
+title:               Hey Dudes
 tagline:             'If you are on a path to loosing faith, continue ..'
 description:         'About me'
 url:                 http://niyanta.github.io
@@ -25,7 +25,7 @@ icon:                your site icon path # /assets/img/icon.png [best 300px X 30
 disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
-  name:           	 Niyanta Zamindar
+  name:           	 Nina
   url:            	 http://niyanta.github.io
   facebook:          niyu.j
   twitter:           thats_nina07

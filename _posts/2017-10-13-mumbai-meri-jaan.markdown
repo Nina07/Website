@@ -1,14 +1,15 @@
 ---
 layout: post
-title:  "Mumbai meri jaan"
-date:   2017-10-13 22:00:00
-last_modified_at:  2017-10-13 22:30:00
+title:  "Mumbai Meri Jaan"
+date:   '2017-10-13 22:00:00'
+last_modified_at:  '2017-10-13 22:30:00'
 excerpt: "I am here to talk about my big move to the city of Dreams ..."
 categories: history
 tags:  mickey
 image:
-  feature: love-mumbai.jpg
-  topPosition: -50px
+  feature: mumbai-min.jpg
+  topPosition: -150px
+  width: initial
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
@@ -29,3 +30,13 @@ My fashions senses elevated. I found good friend in people way younger than me, 
 
 <p>And man how can I forget, all the big events, concerts, there’s everything in Mumbai. Life me weekends kum padh jayenge, but events khatam nahi honge. I attended live stand up comedy shows ( Kanan & Biswa ), attended the Comic Con 2016 *_*, Coldplay k time gareebi aagyi thi ;_;, nonetheless, Ed bhaisaab aarahe h, Nov’17 ;)
 Last but not the least, the places <'3', Carter Road, Bandra Bandstand <'3'</p>
+
+<p>
+Honestly, I think everyone should go and live in Mumbai, for at least once in their life!<br>
+By now anyone reading this must have realized I am pretty darn crazy about Mumbai. And I can seriously go on, but I think this is enough for the first blog! Thank you for bearing with me :)
+</p>
+
+<p><i>
+Cheers,<br>
+Niyanta
+</i></p>
