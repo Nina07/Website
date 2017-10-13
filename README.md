@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mickey
 
 Mickey is a minimal one-column, responsive theme for [Jekyll](http://jekyllrb.com).
@@ -129,3 +130,7 @@ Post thumbnails are automatically resized via Gulp's image resize package, and m
 Open sourced under the [MIT license](LICENSE.md).
 
 **Disclaimer: This Jekyll theme is not affiliated with Disney. Obviously :)**
+=======
+# Website
+My Website
+>>>>>>> ac8846733b7c890836c6def6d72700b8683c2e31
