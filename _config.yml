@@ -10,8 +10,8 @@ permalink:           /:title
 # Setup
 timezone:            Asia/Kolkata # eg. Asia/Kathmandu
 locale:              en_us # eg. en_us
-name:				         Introspection
-title:               Hey Dudes
+name:
+title:               Zamindar
 tagline:             'If you are on a path to loosing faith, continue ..'
 description:         'About me'
 url:                 http://nina07.github.io
