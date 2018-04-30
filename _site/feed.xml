@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title></title>
+		<description>About me</description>
+		<link>http://localhost:9001</link>
+		<atom:link href="http://localhost:9001/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Memes are love &amp;lt;3</title>
+				
+				
+					<description>Memes</description>
+				
+				<pubDate>Thu, 26 Oct 2017 00:45:00 +0530</pubDate>
+				<link>http://localhost:9001/whats-in-a-meme</link>
+				<guid isPermaLink="true">http://localhost:9001/whats-in-a-meme</guid>
+			</item>
+		
+			<item>
+				<title>He for She, Him for Her</title>
+				
+				
+					<description>Women</description>
+				
+				<pubDate>Wed, 25 Oct 2017 17:45:00 +0530</pubDate>
+				<link>http://localhost:9001/women-today</link>
+				<guid isPermaLink="true">http://localhost:9001/women-today</guid>
+			</item>
+		
+			<item>
+				<title>Ruby VS Python, the Scripting Wizards</title>
+				
+				
+					<description>Ruby VS Python</description>
+				
+				<pubDate>Sat, 14 Oct 2017 04:15:00 +0530</pubDate>
+				<link>http://localhost:9001/ruby-vs-python</link>
+				<guid isPermaLink="true">http://localhost:9001/ruby-vs-python</guid>
+			</item>
+		
+			<item>
+				<title>Ruby Logger</title>
+				
+				
+					<description>How to use Ruby Logger.</description>
+				
+				<pubDate>Sat, 14 Oct 2017 03:00:00 +0530</pubDate>
+				<link>http://localhost:9001/ruby-logger</link>
+				<guid isPermaLink="true">http://localhost:9001/ruby-logger</guid>
+			</item>
+		
+			<item>
+				<title>Mumbai Meri Jaan</title>
+				
+				
+					<description>I am here to talk about my big move to the city of Dreams ...</description>
+				
+				<pubDate>Fri, 13 Oct 2017 22:00:00 +0530</pubDate>
+				<link>http://localhost:9001/mumbai-meri-jaan</link>
+				<guid isPermaLink="true">http://localhost:9001/mumbai-meri-jaan</guid>
+			</item>
+		
+	</channel>
+</rss>
