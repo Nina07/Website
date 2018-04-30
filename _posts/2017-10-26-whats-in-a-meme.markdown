@@ -7,7 +7,7 @@ excerpt: "Memes"
 categories: social
 tags: memes
 image:
-  feature: reece.jpg
+  feature: meme-background.jpg
   topPosition: -150px
   width: initial
 bgContrast: dark
