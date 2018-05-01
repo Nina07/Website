@@ -12,7 +12,7 @@
 				
 					<description>Memes</description>
 				
-				<pubDate>Thu, 26 Oct 2017 00:45:00 +0530</pubDate>
+				<pubDate>Sun, 18 Feb 2018 00:45:00 +0530</pubDate>
 				<link>http://localhost:9001/whats-in-a-meme</link>
 				<guid isPermaLink="true">http://localhost:9001/whats-in-a-meme</guid>
 			</item>
@@ -23,7 +23,7 @@
 				
 					<description>Women</description>
 				
-				<pubDate>Wed, 25 Oct 2017 17:45:00 +0530</pubDate>
+				<pubDate>Tue, 02 Jan 2018 17:45:00 +0530</pubDate>
 				<link>http://localhost:9001/women-today</link>
 				<guid isPermaLink="true">http://localhost:9001/women-today</guid>
 			</item>
@@ -34,7 +34,7 @@
 				
 					<description>Ruby VS Python</description>
 				
-				<pubDate>Sat, 14 Oct 2017 04:15:00 +0530</pubDate>
+				<pubDate>Tue, 05 Dec 2017 04:15:00 +0530</pubDate>
 				<link>http://localhost:9001/ruby-vs-python</link>
 				<guid isPermaLink="true">http://localhost:9001/ruby-vs-python</guid>
 			</item>
@@ -45,7 +45,7 @@
 				
 					<description>How to use Ruby Logger.</description>
 				
-				<pubDate>Sat, 14 Oct 2017 03:00:00 +0530</pubDate>
+				<pubDate>Tue, 14 Nov 2017 03:00:00 +0530</pubDate>
 				<link>http://localhost:9001/ruby-logger</link>
 				<guid isPermaLink="true">http://localhost:9001/ruby-logger</guid>
 			</item>

@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Ruby Logger"
-date:   '2017-10-14 03:00:00'
-last_modified_at:  '2017-10-14 03:30:00'
+date:   '2017-11-14 03:00:00'
+last_modified_at:  '2017-11-14 03:30:00'
 excerpt: "How to use Ruby Logger."
 categories: Technology
 tags:  ruby

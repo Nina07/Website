@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Ruby VS Python, the Scripting Wizards"
-date:   '2017-10-14 04:15:00'
-last_modified_at:  '2017-10-14 04:45:00'
+date:   '2017-12-05 04:15:00'
+last_modified_at:  '2017-12-05 04:45:00'
 excerpt: "Ruby VS Python"
 categories: Technology
 tags:  ruby, python

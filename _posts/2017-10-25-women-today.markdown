@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "He for She, Him for Her"
-date: '2017-10-25 17:45:00'
-last_modified_at:  '2017-10-25 18:15:00'
+date: '2018-01-02 17:45:00'
+last_modified_at:  '2018-01-02 18:15:00'
 excerpt: "Women"
 categories: General
 tags:  heforshe
